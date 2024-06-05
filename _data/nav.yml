@@ -15,6 +15,6 @@ items:
   name: Newsletter
   icon_class: fas fa-book-reader
 
-- url: /Livro/
+- url: /livro/
   name: Livro
   icon_class: fas fa-book
