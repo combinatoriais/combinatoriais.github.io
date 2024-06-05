@@ -1,14 +1,14 @@
 # Site settings
 course_name: Combinatória
 course_description: "Hub para pesquisadores (e futuros pesquisadores) da combinatória brasileira"
-course_semester: "2024"
+course_semester: ""
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://combinatoriais.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: ""
+schoolurl: "https://combinatoria.org"
+twitter_username: 
 
 address: |
     School of Witchcraft and Wizardry
