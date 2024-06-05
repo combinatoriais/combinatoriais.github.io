@@ -13,7 +13,7 @@ items:
 
 - url: /newsletter/
   name: Newsletter
-  icon_class: fas fa-book-newspaper
+  icon_class: fas fa-newspaper
 
 - url: /livro/
   name: Livro
