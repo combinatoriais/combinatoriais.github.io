@@ -3,22 +3,22 @@ items:
   name: Home
   icon_class: fa fa-home fa-lg
 
-- url: /schedule/
-  name: Schedule
+- url: /eventos/
+  name: Eventos
   icon_class: fas fa-calendar-alt
 
-- url: /lectures/
-  name: Lectures
+- url: /cursos/
+  name: Cursos
   icon_class: fas fa-book-reader
 
-- url: /assignments/
-  name: Assignments
+- url: /newsletter/
+  name: Newsletter
   icon_class: fas fa-user-graduate
 
-- url: /project/
-  name: Project
+- url: /projetos/
+  name: Projetos
   icon_class: fas fa-user-graduate
 
-- url: /materials/
-  name: Materials
+- url: /Livro/
+  name: Livro
   icon_class: fas fa-book
