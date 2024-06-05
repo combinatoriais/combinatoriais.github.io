@@ -4,8 +4,6 @@ title: O livro
 permalink: /livro/
 ---
 
-{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
-
 ## Livro
 
 O livro “Combinatória”, de autoria de Fábio Botler, Maurício Collares, Taísa Martins, Walner Mendonça, Rob Morris e Guilherme Oliveira Mota. O livro foi publicado em 2021, pela Editora do IMPA, e foi utilizado em um curso no 33º Colóquio Brasileiro de Matemática.

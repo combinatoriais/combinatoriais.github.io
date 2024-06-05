@@ -1,19 +1,12 @@
 # Site settings
-course_name: Combinatória
+course_name: Combinatória.org
 course_description: "Hub para pesquisadores (e futuros pesquisadores) da combinatória brasileira"
 course_semester: ""
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://combinatoriais.github.io/" # the base hostname & protocol for your site
 
-schoolname: ""
 schoolurl: "https://combinatoria.org"
-twitter_username: 
-
-address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
