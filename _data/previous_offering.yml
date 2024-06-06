@@ -1,7 +1,9 @@
 offerings:
-  - title: Fall 1997
-    url: https://previous_course_website.url/
+  - title: Livro
+    url: /livro/
+    image: paley_logo.svg
   
-  - title: Fall 1996
-    url: https://previous_course_website.url/
+  - title: Curso
+    url: curso
+    image: paley_logo.svg
 

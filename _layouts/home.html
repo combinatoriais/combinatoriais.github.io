@@ -14,9 +14,30 @@ layout: default
     {{ content }}
 
     {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
-    <h2> Conteúdo disponível </h2>
+    <h2> Destaques </h2>
     <ul class="previous-offerings">
     {% for offer in site.data.previous_offering.offerings %}
+    <div class="column col-12">
+        <a href="{{ site.baseurl}}{{ offer.url }}">
+          <div class="card card-link my-1" itemprop="blogPosts" itemscope="" itemtype="http://schema.org/BlogPosting">
+            <div class="card-body">
+              <div class="columns col-x-align">
+                <div class="column col col-sm-12">
+                  <h5 class="text-semibold m-0">{{ offer.title }}</h5>
+                  <p class="m-0 text-dark"> detalhes </p>
+                </div>
+                <div class="column col-auto hide-sm">
+                  <div class="flex-vertical-center">
+                    <figure class="avatar d-inline-block" style="align-items: center;">
+                      <img  src="{{ site.baseurl }}/assets/{{ offer.image}}" alt="...">
+                    </figure>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
     <li><a href="{{ offer.url }}">{{offer.title}}</a></li>
     {% endfor %}
     </ul>
