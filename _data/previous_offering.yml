@@ -1,11 +1,11 @@
 destaques:
-  - title: Livro
+  - title: Combinatória
     url: https://combinatoriais.github.io/livro/
     detalhes: Livro para pos
   
   - title: Uma introdução à combinatória extremal
     url: https://www.youtube.com/watch?v=lPGxLgvGqUE&list=PLvvfpeSf1IRL_wJWzxfGNfQofrv7B2k5V
-    detalhes: titulo do curso
+    detalhes: Mini curso
 
   - title: Palestra especial
     url: https://www.youtube.com/watch?v=f8tfgv0Id5U
@@ -13,7 +13,7 @@ destaques:
 
   - title: Combinatória I
     url: https://www.youtube.com/watch?v=p5tLFkFHByY&list=PLo4jXE-LdDTSkmHd3xNGhcObfWXvpwmCL
-    detalhes: Mestrado
+    detalhes: Curso (mestrado)
 
   - title: Card 4
     url: curso
