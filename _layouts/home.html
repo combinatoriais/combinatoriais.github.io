@@ -3,15 +3,7 @@ layout: default
 ---
 
 <div class="home">
-
-    <h1>{{ site.course_name }} <span style="font-size: 20px;color: #0006;"> </h1>
-
-    {% include announcements.html %}
-    <br />
-
-    <p>{{ site.course_description }}</p>
-    
-    {{ content }}
+    <h3>{{ site.course_description }}</h3>
 
     <div class="container-full">
       <div class="container grid-xl">
@@ -20,7 +12,6 @@ layout: default
             <h2> Destaques </h2>
           </div>
           {% for destaque in site.data.previous_offering.destaques %}
-
           <div class="column col-4 col-md-6 col-sm-12">
             <a href="{{ destaque.url }}">
               <div class="card card-link">
@@ -37,4 +28,7 @@ layout: default
     </div>
     </div>
     </div>
+
+    {% include announcements.html %}
+    {{ content }}
 </div>

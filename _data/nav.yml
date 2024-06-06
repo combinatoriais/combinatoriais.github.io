@@ -1,8 +1,4 @@
 items:
-- url: /
-  name: Home
-  icon_class: fa fa-home fa-lg
-
 - url: /eventos/
   name: Eventos
   icon_class: fas fa-calendar-alt

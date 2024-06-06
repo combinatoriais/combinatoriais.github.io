@@ -15,12 +15,12 @@ destaques:
     url: https://www.youtube.com/watch?v=p5tLFkFHByY&list=PLo4jXE-LdDTSkmHd3xNGhcObfWXvpwmCL
     detalhes: Curso (mestrado)
 
-  - title: Card 4
+  - title: Para alunos
     url: curso
-    detalhes: cards 90
+    detalhes: Comece aqui
 
-  - title: Card 5
+  - title: Para pesquisadores
     url: curso
-    detalhes: card 5555
+    detalhes: Conecte-se aqui
 
 
