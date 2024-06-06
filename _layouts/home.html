@@ -15,11 +15,10 @@ layout: default
 
     {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
     <h2> Destaques </h2>
-    <ul class="previous-offerings">
     {% for offer in site.data.previous_offering.offerings %}
     <div class="column col-12">
         <a href="{{ site.baseurl}}{{ offer.url }}">
-          <div class="card card-link my-1" itemprop="blogPosts" itemscope="" itemtype="http://schema.org/BlogPosting">
+          <div class="card card-link my-1">
             <div class="card-body">
               <div class="columns col-x-align">
                 <div class="column col col-sm-12">
@@ -38,9 +37,7 @@ layout: default
           </div>
         </a>
       </div>
-    <li><a href="{{ offer.url }}">{{offer.title}}</a></li>
     {% endfor %}
-    </ul>
     {% endif %}
 
     <br>

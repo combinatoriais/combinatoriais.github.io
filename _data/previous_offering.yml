@@ -1,9 +1,9 @@
 offerings:
   - title: Livro
     url: /livro/
-    image: paley_logo.svg
+    image: /_images/paley13.png
   
   - title: Curso
     url: curso
-    image: paley_logo.svg
+    image: /_images/paley17.png
 
