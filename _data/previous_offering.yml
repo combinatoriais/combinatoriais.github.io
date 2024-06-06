@@ -1,9 +1,20 @@
 offerings:
   - title: Livro
     url: /livro/
-    image: paley13.png
   
   - title: Curso
     url: curso
-    image: paley17.png
+
+  - title: Artigos selecionados
+    url: curso
+
+  - title: Mais um
+    url: curso
+
+  - title: Card 4
+    url: curso
+
+  - title: Card 5
+    url: curso
+
 
