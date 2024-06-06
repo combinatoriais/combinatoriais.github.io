@@ -17,16 +17,16 @@ layout: default
       <div class="container grid-xl">
         <div class="columns negative-m-s">
           <div class="column col-12 text-center">
-            <h6 class="text-secondary"> Destaques </h6>
+            <h2> Destaques </h2>
           </div>
-          {% for offer in site.data.previous_offering.offerings %}
+          {% for destaque in site.data.previous_offering.destaques %}
 
           <div class="column col-4 col-md-6 col-sm-12">
-            <a href="{{ site.baseurl}}{{ offer.url }}">
+            <a href="{{ offer.url }}">
               <div class="card card-link">
                 <div class="card-body text-center my-4">
-                  <h5 class="text-bold">{{ offer.title }}</h5>
-                  <p class="m-0">{{ offer.detalhes}} </p>
+                  <h5 class="text-bold">{{ destaque.title }}</h5>
+                  <p class="m-0">{{ destaque.detalhes}} </p>
                 </div>
               </div>
             </a>

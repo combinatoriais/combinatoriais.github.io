@@ -1,19 +1,19 @@
-offerings:
+destaques:
   - title: Livro
-    url: /livro/
+    url: https://combinatoriais.github.io/livro/
     detalhes: Livro para pos
   
-  - title: Curso
-    url: curso
+  - title: Uma introdução à combinatória extremal
+    url: https://www.youtube.com/watch?v=lPGxLgvGqUE&list=PLvvfpeSf1IRL_wJWzxfGNfQofrv7B2k5V
     detalhes: titulo do curso
 
-  - title: Artigos selecionados
-    url: curso
-    detalhes: curadoria
+  - title: Palestra especial
+    url: https://www.youtube.com/watch?v=f8tfgv0Id5U
+    detalhes: Palestra
 
-  - title: Mais um
-    url: curso
-    detalhes: mais
+  - title: Combinatória I
+    url: https://www.youtube.com/watch?v=p5tLFkFHByY&list=PLo4jXE-LdDTSkmHd3xNGhcObfWXvpwmCL
+    detalhes: Mestrado
 
   - title: Card 4
     url: curso
