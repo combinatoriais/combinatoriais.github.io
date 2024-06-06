@@ -19,6 +19,7 @@ layout: default
           <div class="columns negative-m-s">
             <div class="column col-12 text-center">
     <h2> Destaques </h2>
+    </div>
     {% for offer in site.data.previous_offering.offerings %}
     <div class="column col-12">
         <a href="{{ site.baseurl}}{{ offer.url }}">
@@ -29,13 +30,6 @@ layout: default
                   <h5 class="text-semibold m-0">{{ offer.title }}</h5>
                   <p class="m-0 text-dark"> detalhes </p>
                 </div>
-                <div class="column col-auto hide-sm">
-                  <div class="flex-vertical-center">
-                    <figure class="avatar d-inline-block" style="align-items: center;">
-                      <img  src="{{ site.baseurl }}/_images/{{ offer.image}}" alt="...">
-                    </figure>
-                  </div>
-                </div>
               </div>
             </div>
           </div>
@@ -45,7 +39,6 @@ layout: default
     {% endif %}
     <br>
     <div>
-    </div>
     </div>
     </div>
     </div>
