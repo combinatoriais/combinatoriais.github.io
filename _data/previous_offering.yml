@@ -1,20 +1,26 @@
 offerings:
   - title: Livro
     url: /livro/
+    detalhes: Livro para pos
   
   - title: Curso
     url: curso
+    detalhes: titulo do curso
 
   - title: Artigos selecionados
     url: curso
+    detalhes: curadoria
 
   - title: Mais um
     url: curso
+    detalhes: mais
 
   - title: Card 4
     url: curso
+    detalhes: cards 90
 
   - title: Card 5
     url: curso
+    detalhes: card 5555
 
 
