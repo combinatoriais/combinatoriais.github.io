@@ -8,8 +8,8 @@ items:
   icon_class: fas fa-book-reader
 
 - url: /newsletter/
-  name: Newsletter
-  icon_class: fas fa-newspaper
+  name: Feed
+  icon_class: fas fa-square-rss
 
 - url: /livro/
   name: Livro

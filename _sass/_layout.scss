@@ -1,75 +1,3 @@
-
-
-/* .site-nav {
-    float: right;
-    line-height: 40px;
-		margin-top: 15px;
-
-    .menu-icon {
-        display: none;
-    }
-
-    .page-link {
-        color: #ffffff;
-    background: #f66733;
-        line-height: $base-line-height;
-
-        // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: 20px;
-        }
-    }
-
-
-
-    @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: 30px;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
-
-        .menu-icon {
-            display: block;
-            float: right;
-            width: 36px;
-            height: 26px;
-            line-height: 0;
-            padding-top: 10px;
-            text-align: center;
-
-            > svg {
-                width: 18px;
-                height: 15px;
-
-                path {
-                    fill: $grey-color-dark;
-                }
-            }
-        }
-
-        .trigger {
-            clear: both;
-            display: none;
-        }
-
-        &:hover .trigger {
-            display: block;
-            padding-bottom: 5px;
-        }
-
-        .page-link {
-            display: block;
-            padding: 5px 10px;
-        }
-    }
-}
-*/ 
-
-
-
 /**
  * Site footer
  */
@@ -451,7 +379,7 @@ article ul#archive > li:before {
     width: 60%;
   }
   .col-7 {
-    width: 50%;
+    width: 45%;
   }
   .col-6 {
     width: 30%;
@@ -521,13 +449,13 @@ article ul#archive > li:before {
       width: 58.33333333%;
     }
     .col-xl-6 {
-      width: 50%;
+      width: 45%;
     }
     .col-xl-5 {
-      width: 41.66666667%;
+      width: 33%;
     }
     .col-xl-4 {
-      width: 33.33333333%;
+      width: 30%;
     }
     .col-xl-3 {
       width: 25%;
@@ -583,13 +511,13 @@ article ul#archive > li:before {
       width: 58.33333333%;
     }
     .col-lg-6 {
-      width: 50%;
+      width: 45%;
     }
     .col-lg-5 {
       width: 41.66666667%;
     }
     .col-lg-4 {
-      width: 33.33333333%;
+      width: 30%;
     }
     .col-lg-3 {
       width: 25%;
@@ -645,13 +573,13 @@ article ul#archive > li:before {
       width: 58.33333333%;
     }
     .col-md-6 {
-      width: 50%;
+      width: 45%;
     }
     .col-md-5 {
       width: 41.66666667%;
     }
     .col-md-4 {
-      width: 33.33333333%;
+      width: 30%;
     }
     .col-md-3 {
       width: 25%;
@@ -707,13 +635,13 @@ article ul#archive > li:before {
       width: 58.33333333%;
     }
     .col-sm-6 {
-      width: 50%;
+      width: 45%;
     }
     .col-sm-5 {
       width: 41.66666667%;
     }
     .col-sm-4 {
-      width: 33.33333333%;
+      width: 30%;
     }
     .col-sm-3 {
       width: 25%;
@@ -769,13 +697,13 @@ article ul#archive > li:before {
       width: 58.33333333%;
     }
     .col-xs-6 {
-      width: 50%;
+      width: 45%;
     }
     .col-xs-5 {
       width: 41.66666667%;
     }
     .col-xs-4 {
-      width: 33.33333333%;
+      width: 30%;
     }
     .col-xs-3 {
       width: 25%;
@@ -824,7 +752,7 @@ article ul#archive > li:before {
     display: flex;
     flex-direction: column;
     box-shadow: $light-shadow;
-    margin: 10px 0;
+    margin: 3px 0;
     &.card-hover {
       display: block;
       top: 0px;
@@ -868,7 +796,7 @@ article ul#archive > li:before {
     .card-body,
     .card-footer {
       padding: $layout-spacing-lg;
-      padding-bottom: 0;
+      padding-bottom: 2px;
     }
   
     .card-body {
@@ -908,13 +836,3 @@ article ul#archive > li:before {
     }
   }
 
-/* ul#archive li span {
-       color: #000;
-       font-size: 85%;
-}
-
-
-
-ul#archive li span a:hover {
-       border-bottom: #bdbdbd 1px solid;
-} */

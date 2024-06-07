@@ -1,19 +1,19 @@
 destaques:
   - title: Combinatória
     url: https://combinatoriais.github.io/livro/
-    icon: fas fa-book-reader
+    icon: fas fa-book
   
   - title: Uma introdução à combinatória extremal
     url: https://www.youtube.com/watch?v=lPGxLgvGqUE&list=PLvvfpeSf1IRL_wJWzxfGNfQofrv7B2k5V
-    icon: fas fa-book-reader
+    icon: fas fa-youtube
 
-  - title: Palestra especial
-    url: https://www.youtube.com/watch?v=f8tfgv0Id5U
-    icon: fas fa-book-reader
+  - title: Escola Brasileira de Combinatória
+    url: https://impa.br/eventos-do-impa/2023-2/1a-escola-brasileira-de-combinatoria/
+    icon: fas fa-chalkboard
 
   - title: Combinatória I
     url: https://www.youtube.com/watch?v=p5tLFkFHByY&list=PLo4jXE-LdDTSkmHd3xNGhcObfWXvpwmCL
-    icon: fas fa-book-reader
+    icon: fas fa-youtube
 
   - title: Para alunos
     url: curso
@@ -21,6 +21,6 @@ destaques:
 
   - title: Para pesquisadores
     url: curso
-    icon: fas fa-book-reader
+    icon: fas fa-chalkboard-user
 
 
