@@ -5,15 +5,15 @@ destaques:
   
   - title: Uma introdução à combinatória extremal
     url: https://www.youtube.com/watch?v=lPGxLgvGqUE&list=PLvvfpeSf1IRL_wJWzxfGNfQofrv7B2k5V
-    icon: fas fa-solid fa-youtube
+    icon: fas fa-play-circle
 
   - title: Escola Brasileira de Combinatória
     url: https://impa.br/eventos-do-impa/2023-2/1a-escola-brasileira-de-combinatoria/
-    icon: fas fa-chalkboard
+    icon: fas fa-users
 
   - title: Combinatória I
     url: https://www.youtube.com/watch?v=p5tLFkFHByY&list=PLo4jXE-LdDTSkmHd3xNGhcObfWXvpwmCL
-    icon: fas fa-solid fa-youtube
+    icon: fas fa-play-circle
 
   - title: Para alunos
     url: curso
@@ -21,6 +21,6 @@ destaques:
 
   - title: Para pesquisadores
     url: curso
-    icon: fas fa-solid fa-person-chalkboard
+    icon: fas fa-chalkboard-teacher
 
 
