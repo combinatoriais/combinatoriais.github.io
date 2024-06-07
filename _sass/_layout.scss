@@ -731,7 +731,7 @@ article ul#archive > li:before {
 
 
 .card-link {
-    color: $dark-color;
+    color: lightgray;
     font-weight: 400;
     position: relative;
     transition: all ease 0.3s;
@@ -747,7 +747,7 @@ article ul#archive > li:before {
   
   .card {
     border: 1px solid $border-color;
-    background: $white;
+    background: grey;
     border-radius: 0px;
     display: flex;
     flex-direction: column;
@@ -767,7 +767,7 @@ article ul#archive > li:before {
         box-shadow: $hover-shadow;
         top: -4px;
         border: 1px solid $error;
-        background-color: white;
+        background-color: darkslategrey;
       }
       &.active-notifications {
         padding-bottom: 18px;

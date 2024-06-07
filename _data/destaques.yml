@@ -3,7 +3,7 @@ destaques:
     url: https://combinatoriais.github.io/livro/
     icon: fas fa-book
     detalhes: blurb do livro
-    background: /_images/paley17.svg
+    background: /_images/background_graph1.png
   
   - title: Uma introdução à combinatória extremal
     url: https://www.youtube.com/watch?v=lPGxLgvGqUE&list=PLvvfpeSf1IRL_wJWzxfGNfQofrv7B2k5V
