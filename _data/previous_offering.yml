@@ -1,26 +1,26 @@
 destaques:
   - title: Combinatória
     url: https://combinatoriais.github.io/livro/
-    detalhes: Livro para pos
+    icon: fas fa-book-reader
   
   - title: Uma introdução à combinatória extremal
     url: https://www.youtube.com/watch?v=lPGxLgvGqUE&list=PLvvfpeSf1IRL_wJWzxfGNfQofrv7B2k5V
-    detalhes: Mini curso
+    icon: fas fa-book-reader
 
   - title: Palestra especial
     url: https://www.youtube.com/watch?v=f8tfgv0Id5U
-    detalhes: Palestra
+    icon: fas fa-book-reader
 
   - title: Combinatória I
     url: https://www.youtube.com/watch?v=p5tLFkFHByY&list=PLo4jXE-LdDTSkmHd3xNGhcObfWXvpwmCL
-    detalhes: Curso (mestrado)
+    icon: fas fa-book-reader
 
   - title: Para alunos
     url: curso
-    detalhes: Comece aqui
+    icon: fas fa-book-reader
 
   - title: Para pesquisadores
     url: curso
-    detalhes: Conecte-se aqui
+    icon: fas fa-book-reader
 
 

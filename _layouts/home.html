@@ -6,18 +6,19 @@ layout: default
     <h4>{{ site.course_description }}</h4>
 
     <div class="container-full">
+      <div class="column col-12 text-center">
+        <h3> Destaques </h3>
+      </div>
       <div class="container grid-xl">
         <div class="columns negative-m-s">
-          <div class="column col-12 text-center">
-            <h3> Destaques </h3>
-          </div>
           {% for destaque in site.data.previous_offering.destaques %}
           <div class="column col-4 col-md-6 col-sm-12">
             <a href="{{ destaque.url }}">
               <div class="card card-link">
                 <div class="card-body text-center my-4">
+                  <i class="{{ destaque.icon }}"></i> 
+                  <br>
                   <h5 class="text-bold">{{ destaque.title }}</h5>
-                  <p class="m-0">{{ destaque.detalhes}} </p>
                 </div>
               </div>
             </a>
