@@ -11,7 +11,7 @@
 }
 
 .header-texture {
-    opacity: 0.2;
+    opacity: 0.6;
 }
 
 .site-title, .site-title a {
@@ -174,7 +174,7 @@ z-index:999;
         position: absolute;
         top: 9px;
         right: 30px;
-        background-color: $background-color;
+        background-color: #050505;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
         text-align: right;
