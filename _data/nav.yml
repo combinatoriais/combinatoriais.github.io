@@ -11,8 +11,8 @@ items:
   name: Feed
   icon_class: fas fa-rss
 
-- url: /livro/
-  name: Curadoria
+- url: /recursos/
+  name: recursos
   icon_class: fas fa-book
 
 - url: /pesquisa/
