@@ -12,7 +12,7 @@
 	}
 
 .site-nav .menu {
-		border: 3px solid transparent;
+		border: 1px solid transparent;
 		border-top: 0;
 		/* bg and border colors set in header */
 		-moz-box-shadow: 0px 2px 2px rgba(0,0,0,0.8);
@@ -29,6 +29,10 @@
 		z-index: 999;
 	}
 
+	.site-header .wrapper {
+		padding-top: 2px;
+		position: relative;
+	}
 
 .site-nav .menu.open {
 		display: block;
@@ -41,14 +45,12 @@
 	}
 
 .site-nav ul.menu a {
-	background: #fff;
 	color: $title-color;
-
 }
 
 .site-nav a,
 	.site-nav li.current-menu-item > a {
-		padding: 4px 10px;
+		padding: 1px 1px;
 	}
 
 .site-nav .menu > li {
@@ -73,7 +75,7 @@
 	}
 
 	.site-nav .sub-menu {
-		padding-left: 16px;
+		padding-left: 3px;
 	}
 	.site-nav .sub-menu li.current-menu-item > a {
 		border: 0;
