@@ -9,8 +9,6 @@ links:
       name: playlist
     - url:  https://impa.br/~rob
       name: professor
-    - url: https://google.com
-      name: slides
 ---
 **Referências**
 - BOLLOBÁS, B. – Modern Graph Theory, New York : Springer, c1998.
