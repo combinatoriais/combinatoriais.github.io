@@ -801,6 +801,7 @@ article ul#archive > li:before {
   
     .card-body {
       flex: 1 1 auto;
+      min-height: 150px;
       &.card-body-h-center {
         display: flex;
         align-items: center;
