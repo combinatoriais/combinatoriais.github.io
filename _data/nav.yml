@@ -3,8 +3,8 @@ items:
   name: Eventos
   icon_class: fas fa-calendar-alt
 
-- url: /cursos/
-  name: Cursos
+- url: /ensino/
+  name: Ensino
   icon_class: fas fa-book-reader
 
 - url: /newsletter/
@@ -12,5 +12,13 @@ items:
   icon_class: fas fa-rss
 
 - url: /livro/
-  name: Livro
+  name: Curadoria
   icon_class: fas fa-book
+
+- url: /pesquisa/
+  name: Pesquisa
+  icon_class: fas fa-university
+
+- url: /pessoas/
+  name: Pessoas
+  icon_class: fas fa-users  

@@ -2,25 +2,31 @@ destaques:
   - title: Combinatória
     url: https://combinatoriais.github.io/livro/
     icon: fas fa-book
+    detalhes: blurb do livro
   
   - title: Uma introdução à combinatória extremal
     url: https://www.youtube.com/watch?v=lPGxLgvGqUE&list=PLvvfpeSf1IRL_wJWzxfGNfQofrv7B2k5V
     icon: fas fa-play-circle
+    detalhes: Mini curso do 33º CBM
 
   - title: Escola Brasileira de Combinatória
     url: https://impa.br/eventos-do-impa/2023-2/1a-escola-brasileira-de-combinatoria/
     icon: fas fa-users
+    detalhes: 
 
   - title: Combinatória I
-    url: https://www.youtube.com/watch?v=p5tLFkFHByY&list=PLo4jXE-LdDTSkmHd3xNGhcObfWXvpwmCL
+    url: https://www.youtube.com/playlist?list=PLo4jXE-LdDTSkmHd3xNGhcObfWXvpwmCL
     icon: fas fa-play-circle
+    detalhes: Curso do programa de mestrado do IMPA
 
-  - title: Para alunos
+  - title: Alunos
     url: curso
     icon: fas fa-book-reader
+    detalhes: Material de estudo, ICs
 
   - title: Para pesquisadores
     url: curso
     icon: fas fa-chalkboard-teacher
+    detalhes: Eventos, novidades, oportunidades
 
 

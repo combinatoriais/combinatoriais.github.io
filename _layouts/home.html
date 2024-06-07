@@ -11,14 +11,14 @@ layout: default
       </div>
       <div class="container grid-xl">
         <div class="columns negative-m-s">
-          {% for destaque in site.data.previous_offering.destaques %}
+          {% for destaque in site.data.destaques.destaques %}
           <div class="column col-4 col-md-6 col-sm-12">
             <a href="{{ destaque.url }}">
               <div class="card card-link">
                 <div class="card-body text-center my-4">
                   <i class="{{ destaque.icon }}"></i> 
-                  <br>
-                  <h5 class="text-bold">{{ destaque.title }}</h5>
+                  <h5 class="text-bold" class="card-title">{{ destaque.title }}</h5>
+                  <h6> {{destaque.detalhes}}</h6>
                 </div>
               </div>
             </a>
