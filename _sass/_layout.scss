@@ -455,15 +455,18 @@ article ul#archive > li:before {
   }
   .col-6 {
     width: 50%;
+    height: 25%;
   }
   .col-5 {
     width: 41.66666667%;
   }
   .col-4 {
     width: 33.33333333%;
+    height: 25%;
   }
   .col-3 {
     width: 25%;
+    height: 25%;
   }
   .col-2 {
     width: 16.66666667%;
@@ -820,7 +823,7 @@ article ul#archive > li:before {
   .card {
     border: 1px solid $border-color;
     background: $white;
-    border-radius: $border-radius-lg;
+    border-radius: 0px;
     display: flex;
     flex-direction: column;
     box-shadow: $light-shadow;
@@ -869,10 +872,6 @@ article ul#archive > li:before {
     .card-footer {
       padding: $layout-spacing-lg;
       padding-bottom: 0;
-  
-      &:last-child {
-        padding-bottom: $layout-spacing-lg;
-      }
     }
   
     .card-body {
