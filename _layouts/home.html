@@ -15,8 +15,7 @@ layout: default
           <div class="column col-4 col-md-6 col-sm-12">
             <a href="{{ destaque.url }}">
               <div class="card card-link">
-                <div class="card-body text-center my-4" style="height:100%; z-index: 0; position: absolute; top:0; right: 0; left: 0; 
-  background-image: url('{{ destaque.background | prepend: site.baseurl }}');">
+                <div class="card-body text-center my-4" style="background-image: url('{{ destaque.background | prepend: site.baseurl }}');">
                   <i class="{{ destaque.icon }}"></i> 
                   <h5 class="text-bold" class="card-title">{{ destaque.title }}</h5>
                   <h6> {{destaque.detalhes}}</h6>
