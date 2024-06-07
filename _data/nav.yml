@@ -9,7 +9,7 @@ items:
 
 - url: /newsletter/
   name: Feed
-  icon_class: fas fa-solid fa-square-rss
+  icon_class: fas fa-rss
 
 - url: /livro/
   name: Livro
